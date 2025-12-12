@@ -19,7 +19,7 @@ Automatically detects potential hazards (High Voltage, Sharp Edges, Heat) for ev
 ## Tech Stack
 
 - **Frontend**: React, Tailwind CSS, Lucide Icons
-- **AI**: Google GenAI SDK (`gemini-3-pro-preview`, `gemini-2.5-flash`)
+- **AI**: Google GenAI SDK (`gemini-3-pro-preview`)
 - **APIs**: WebRTC (Camera/Mic), Web Speech API (TTS)
 
 ## Usage
