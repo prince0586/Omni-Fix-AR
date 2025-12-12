@@ -28,3 +28,5 @@ Automatically detects potential hazards (High Voltage, Sharp Edges, Heat) for ev
 2. **Follow**: Follow the AR instructions.
 3. **Inspect**: Tap parts to learn more.
 4. **Ask**: Use the mic for help.
+
+**Testing app Link** : https://omni-fix-ar-932126588073.us-west1.run.app/
